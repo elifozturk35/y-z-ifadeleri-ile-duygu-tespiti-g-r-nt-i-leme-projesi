@@ -1,4 +1,4 @@
-# 🎭 Yüz İfadeleri ile Duygu Tanıma (Facial Emotion Recognition)
+# 🎭 Yuz Ifadeleri ile Duygu Tanima (Facial Emotion Recognition)
 
 Bu projede, bir yüz fotoğrafından kişinin **duygusunu (mutlu, üzgün, kızgın, nötr)** tahmin eden
 CNN (Convolutional Neural Network) tabanlı bir duygu tanıma sistemi geliştirilmiştir.
@@ -56,4 +56,5 @@ sebep olmaktadır.
 ---
 
 ## 📁 Proje Dosya Yapısı
+
 
